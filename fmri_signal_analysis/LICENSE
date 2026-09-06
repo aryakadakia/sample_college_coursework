@@ -1,0 +1,36 @@
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+The notebooks in this directory are adaptations of DartBrains
+(https://dartbrains.org/), an open-access course by Prof. Luke Chang, PhD
+(Dartmouth College), supported by NSF CAREER Award 1848370. The original
+material is licensed CC BY-SA 4.0.
+
+Because these notebooks remix and build upon that material, the ShareAlike
+term requires that they be distributed under the same license. They are.
+
+  Original work : DartBrains — https://dartbrains.org/
+                  Repository — https://github.com/ljchang/dartbrains
+  Creator       : Luke Chang
+  License       : CC BY-SA 4.0
+                  https://creativecommons.org/licenses/by-sa/4.0/
+  Legal code    : https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Changes made in this directory:
+  - Notebooks trimmed to their Exercises sections.
+  - Setup code reduced to only the cells the exercises depend on.
+  - Display-only calls removed from retained setup code.
+  - Exercise solutions written by Arya Kadakia.
+
+The exercise solutions are original work by Arya Kadakia and are, per the
+ShareAlike term, also released under CC BY-SA 4.0 as part of these adapted
+notebooks.
+
+No endorsement by Luke Chang or Dartmouth College is implied.
+
+DISCLAIMER: Unless otherwise separately undertaken by the Licensor, to the
+extent possible, the Licensor offers the Licensed Material as-is and
+as-available, and makes no representations or warranties of any kind
+concerning the Licensed Material, whether express, implied, statutory, or
+other.
+
+The full license text is available at the Legal code link above.
