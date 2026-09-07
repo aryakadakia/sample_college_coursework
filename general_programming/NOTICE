@@ -1,0 +1,20 @@
+cs1lib.py is not my work.
+
+It is the teaching graphics library written for Dartmouth's COSC 1
+course, included here only because the three projects import it and
+cannot run without it. It is not covered by the MIT licence in this
+directory, which applies to my own code.
+
+The projects import it as `from cs1lib import *`, so run them from
+this directory:
+
+    python3 -m nbody_simulation.solar
+    python3 city_sorting/sort_cities.py
+    python3 campus_pathfinding/map_plot.py
+
+or copy cs1lib.py into the project folder you want to run.
+
+city_sorting note: city.py parses world_cities.txt, the raw source
+data, which I no longer have. Its output, cities_out.txt, is included,
+so quicksort.py, sort_cities.py and visualize_cities.py all run. Only
+the initial parsing step cannot be re-executed.

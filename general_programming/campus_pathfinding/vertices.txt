@@ -1,0 +1,79 @@
+Green Southwest; Location: 510, 798; Adjacent vertices: Robinson/Collis, Green EastGreen South, Green EastGreen West, Green EastGreen Center, Green East
+Green Southeast; Location: 647, 793; Adjacent vertices: 
+Green Center; Location: 576, 711; Adjacent vertices: 
+Green Northeast; Location: 636, 619; Adjacent vertices: 
+Green Northwest; Location: 503, 622; Adjacent vertices: 
+Green West; Location: 503, 710; Adjacent vertices: 
+Green East; Location: 641, 707; Adjacent vertices: 
+Observatory Rd; Location: 809, 751; Adjacent vertices: 
+XH; Location: 932, 705; Adjacent vertices: 
+Gym; Location: 873, 725; Adjacent vertices: 
+New Hamp; Location: 739, 773; Adjacent vertices: 
+Green North; Location: 570, 618; Adjacent vertices: 
+Green South; Location: 580, 798; Adjacent vertices: 
+Fayerweather; Location: 844, 644; Adjacent vertices: 
+East Wheelock; Location: 993, 687; Adjacent vertices: 
+Brace; Location: 958, 623; Adjacent vertices: 
+Blunt; Location: 423, 508; Adjacent vertices: 
+Baker West; Location: 496, 504; Adjacent vertices: 
+Sanborn; Location: 498, 560; Adjacent vertices: 
+Butterfield; Location: 359, 509; Adjacent vertices: 
+Gold Coast; Location: 295, 509; Adjacent vertices: 
+Tuck Dr; Location: 240, 509; Adjacent vertices: 
+Buchanan; Location: 178, 509; Adjacent vertices: 
+Tuck; Location: 116, 487; Adjacent vertices: 
+Thayer; Location: 127, 548; Adjacent vertices: 
+Murdough; Location: 84, 523; Adjacent vertices: 
+Cummings; Location: 86, 589; Adjacent vertices: 
+Carson; Location: 495, 413; Adjacent vertices: 
+Rocky; Location: 421, 389; Adjacent vertices: 
+FDA; Location: 365, 374; Adjacent vertices: 
+Bones Gate; Location: 314, 358; Adjacent vertices: 
+KDE; Location: 262, 337; Adjacent vertices: 
+AXA; Location: 205, 321; Adjacent vertices: 
+Kemeny; Location: 499, 333; Adjacent vertices: 
+Rauner; Location: 637, 556; Adjacent vertices: 
+Wheeler; Location: 646, 485; Adjacent vertices: 
+Wilder; Location: 730, 477; Adjacent vertices: 
+Steele; Location: 681, 434; Adjacent vertices: 
+Richardson; Location: 725, 533; Adjacent vertices: 
+Wentworth; Location: 727, 606; Adjacent vertices: 
+Fairchild; Location: 729, 381; Adjacent vertices: 
+Burke; Location: 775, 327; Adjacent vertices: 
+Sudikoff; Location: 736, 288; Adjacent vertices: 
+Raven; Location: 696, 251; Adjacent vertices: 
+Choate House; Location: 535, 269; Adjacent vertices: 
+LALACS; Location: 568, 220; Adjacent vertices: 
+Sherman; Location: 595, 177; Adjacent vertices: 
+Moore; Location: 644, 213; Adjacent vertices: 
+Rope Ferry; Location: 625, 129; Adjacent vertices: 
+Dicks House; Location: 657, 81; Adjacent vertices: 
+11 Rope Ferry; Location: 686, 46; Adjacent vertices: 
+Bildner; Location: 819, 280; Adjacent vertices: 
+Gilman; Location: 858, 233; Adjacent vertices: 
+Dana; Location: 901, 206; Adjacent vertices: 
+Traffic Light; Location: 975, 183; Adjacent vertices: 
+LSC North; Location: 936, 71; Adjacent vertices: 
+LSC West; Location: 924, 121; Adjacent vertices: 
+LSC East; Location: 960, 115; Adjacent vertices: 
+AQ; Location: 126, 255; Adjacent vertices: 
+DDD; Location: 187, 211; Adjacent vertices: 
+Roth Center; Location: 231, 167; Adjacent vertices: 
+Choates; Location: 409, 217; Adjacent vertices: 
+Dean's House; Location: 350, 142; Adjacent vertices: 
+McLaughlin; Location: 767, 247; Adjacent vertices: 
+Kellogg; Location: 807, 135; Adjacent vertices: 
+Observatory; Location: 787, 541; Adjacent vertices: 
+Bema; Location: 918, 529; Adjacent vertices: 
+North Fayerweather; Location: 780, 608; Adjacent vertices: 
+Dragon; Location: 856, 331; Adjacent vertices: 
+Baker; Location: 567, 519; Adjacent vertices: 
+Berry; Location: 577, 419; Adjacent vertices: 
+Parker House; Location: 649, 313; Adjacent vertices: 
+Goldstein; Location: 722, 207; Adjacent vertices: 
+37 Dewey Field; Location: 752, 96; Adjacent vertices: 
+North Mass; Location: 426, 603; Adjacent vertices: 
+South Mass; Location: 430, 717; Adjacent vertices: 
+Mid Mass; Location: 426, 657; Adjacent vertices: 
+1953 Commons; Location: 429, 747; Adjacent vertices: 
+Robinson/Collis; Location: 480, 753; Adjacent vertices: 
